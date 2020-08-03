@@ -1,0 +1,10 @@
+server/node_modules
+server/src/database/*.sqlite
+server/uploads/*
+!server/uploads/*.svg
+
+web/node_modules
+web/package-lock.json
+web/yarn.lock
+
+mobile/node_modules
