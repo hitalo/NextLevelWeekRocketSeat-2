@@ -13,3 +13,7 @@ Sua plataforma de estudos online.
 #### Segunda Aula
 
 - Implementação do backend
+
+#### Terceira Aula
+
+- Implementação do client web
