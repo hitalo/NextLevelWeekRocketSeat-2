@@ -21,3 +21,7 @@ Sua plataforma de estudos online.
 #### Quarta Aula
 
 - Implementação da base do client mobile
+
+#### Última Aula
+
+- Finalização do client mobile
